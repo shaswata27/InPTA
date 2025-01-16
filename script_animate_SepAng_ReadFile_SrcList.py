@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 import matplotlib.dates as mdates
-from matplotlib.ticker import MaxNLocator
+from matplotlib.ticker import tor
 from astropy.time import Time
 from astropy.coordinates import get_sun, SkyCoord, EarthLocation, AltAz, Angle
 from datetime import datetime, timedelta
